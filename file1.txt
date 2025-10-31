@@ -1,4 +1,3 @@
-testing line
 untesting file
 Hello World
 commit test
@@ -7,3 +6,4 @@ UMPALUMPA - SHCREPLI PEGS
 This is 1-st test in my repository
 Add Line
 new branch line
+new line for GUI
